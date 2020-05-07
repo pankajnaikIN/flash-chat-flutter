@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "245003189151",
+    "firebase_url": "https://fire-base-a37b7.firebaseio.com",
+    "project_id": "fire-base-a37b7",
+    "storage_bucket": "fire-base-a37b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245003189151:android:c6ba8d20c144ec15c79baa",
+        "android_client_info": {
+          "package_name": "co.pankajnaik.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245003189151-ae0apd1lci2uuh6tbjbisosq1793rm8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIqlOZnOFNPx-UBjiNYCxL6leBIv9kpn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245003189151-ae0apd1lci2uuh6tbjbisosq1793rm8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
